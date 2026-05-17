@@ -1,4 +1,3 @@
-# git-branch
 # Git Branch Experiment
 
 本仓库用于完成软件工程第四次作业中的 Git 项目管理实验。
